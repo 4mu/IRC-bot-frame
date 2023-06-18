@@ -14,6 +14,4 @@ Libraries: socket, ssl, time, datetime, requests.
 
 # Contact
 
-Discord: Con#5555
-
-IRC: ircd.chat/6697 (with ssl) #malloc (CHECK IF I AM ONLINE FIRST, USERNAME WILL BE xbcc)
+Don't.
